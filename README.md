@@ -1,12 +1,12 @@
-👋 You talkin' to me?
+# 👋 You talkin' to me?
 
 Yeah, I’m Zack Ramirez — full-stack developer, former private chef, and the guy behind tech that tastes good. I build apps that work hard and look good doin’ it.
 
 I cook up code with the same care I cooked for the ultra wealthy — precise, elegant, and of course delicious.
 
-🛠 Stack of Champions
+## 🛠 Stack of Champions
 
-Frontend:
+### Frontend:
 
   -React (Native & Web)
 
@@ -14,7 +14,7 @@ Frontend:
 
   -HTML5, CSS3, JavaScript (ES6+)
 
-Backend:
+### Backend:
 
   -Python + Flask
 
@@ -26,7 +26,7 @@ Backend:
 
   -REST APIs that don’t mess around
 
-DevOps / Deployment:
+### DevOps / Deployment:
 
   -Git & GitHub
 
@@ -36,7 +36,7 @@ DevOps / Deployment:
 
   -SCP, SSH, the whole command-line kitchen
 
-Extras in the Sauce:
+### Extras in the Sauce:
 
   -AI integrations (OpenAI, custom prompt engineering)
 
@@ -46,17 +46,17 @@ Extras in the Sauce:
 
   -Business-minded UX with a chef’s sense of taste
 
-🍽 Current Dish: SnapChef
+## 🍽 Current Dish: SnapChef
 
 AI-powered recipe assistant. Snap a meal, get the recipe. Clean, fast, and smarter than your fridge.
 
-🧠 Philosophy
+## 🧠 Philosophy
 
     “Fast is good. Smooth is better. Solid is non-negotiable.”
 
 You bring the problem. I’ll bring the fix — fast, scalable, and seasoned to perfection.
 
-🤝 Let’s Talk
+## 🤝 Let’s Talk
 
 Wanna collaborate, cook up an MVP, or just shoot the tech breeze?
 Open a PR, send a message, or meet me in the logs.
