@@ -52,7 +52,7 @@ AI-powered recipe assistant. Snap a meal, get the recipe. Clean, fast, and smart
 
 🧠 Philosophy
 
-    “If you're gonna build it, make it beautiful. If you're gonna ship it, make it bulletproof.”
+    “Fast is good. Smooth is better. Solid is non-negotiable.”
 
 You bring the problem. I’ll bring the fix — fast, scalable, and seasoned to perfection.
 
