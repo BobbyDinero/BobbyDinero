@@ -7,7 +7,7 @@ I cook up code with the same care I cooked for the ultra-wealthy — precise, el
 
 ---
 
-## 🛠 Stack of Champions
+## 🛠 How I Stack
 
 ### 🧑‍💻 Frontend  
 <p align="left">
