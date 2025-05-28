@@ -36,14 +36,6 @@ I cook up code with the same care I cooked for the ultra-wealthy — precise, el
   <img src="https://raw.githubusercontent.com/BobbyDinero/BobbyDinero/main/badges/github.png" alt="GitHub" height="40"/>
 </p>
 
-### 🧂 Extras in the Sauce  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/BobbyDinero/BobbyDinero/main/badges/openai.png" alt="OpenAI" height="40"/>
-  <img src="https://raw.githubusercontent.com/BobbyDinero/BobbyDinero/main/badges/ci_cd.png" alt="CI/CD" height="40"/>
-  <img src="https://raw.githubusercontent.com/BobbyDinero/BobbyDinero/main/badges/security-hardened.png" alt="Security Hardened" height="40"/>
-  <img src="https://raw.githubusercontent.com/BobbyDinero/BobbyDinero/main/badges/visitor_counter.png" alt="Visitor Counter" height="40"/>
-</p>
-
 ---
 
 ## 🍽 Current Dish: [Morsl](https://morslapp.com)
