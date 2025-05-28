@@ -46,10 +46,10 @@ I cook up code with the same care I cooked for the ultra-wealthy — precise, el
 
 ---
 
-## 🍽 Current Dish: [SnapChef](https://snapchefapp.ai)
+## 🍽 Current Dish: [Morsl](https://morslapp.com)
 
 **AI-powered recipe assistant.**  
-Snap a meal, get the recipe. Clean, fast, and smarter than your fridge.
+Snap a meal, get the recipe. Quick, facst, and in a hurry.
 
 ---
 
@@ -63,6 +63,6 @@ You bring the problem. I’ll bring the fix — fast, scalable, and seasoned to 
 
 ## 💼 Hire Me
 
-[![Hire Me](https://img.shields.io/badge/Let's%20Talk-Contact%20Me-blue?style=for-the-badge)](mailto:chefzackr@gmail.com)
+[![Hire Me](https://img.shields.io/badge/Let's%20Talk-Contact%20Me-blue?style=for-the-badge)](mailto:zacharypaulramirez@gmail.com)
 
 ---
