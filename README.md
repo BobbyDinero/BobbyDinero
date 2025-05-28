@@ -53,6 +53,12 @@ You bring the problem. I’ll bring the fix — fast, scalable, and seasoned to 
 
 ---
 
+## 🍕 Favorite Food
+
+Pizza, no Pineapple.
+
+---
+
 ## 💼 Hire Me
 
 [![Hire Me](https://img.shields.io/badge/Let's%20Talk-Contact%20Me-blue?style=for-the-badge)](mailto:zacharypaulramirez@gmail.com)
